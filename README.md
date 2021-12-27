@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Koowah 
-- also known as NasLrgb - a fervent Sminem follower
+- also known as NasLrgb
 
 👀 I’m interested in Machine Learning, Data Science, Data Engineering & Blockchain
 
