@@ -13,6 +13,9 @@
 
 📫 I'm just getting started on my ML/Data journey, but here's my kaggle profile https://www.kaggle.com/anaslargab
 
+Quite a few data/statistics oriented projects will be published in the next couple months.
+I'll be working on writing proper readme's and documenting all my work soon.
+
 Cheers 😄
 <!---
 Koowah/Koowah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
