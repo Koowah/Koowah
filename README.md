@@ -10,7 +10,7 @@
 - <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="30px"> https://www.kaggle.com/anaslargab
 
 - 🌱 Quite a few data/statistics/blockchain oriented projects will be published over the next couple months.
-  I'll be working on writing proper readme's and documenting all my work soon.
+  I'll be working on writing proper readme's, on cleaning up code & files for reusability and on documenting all my work as soon as my schedule allows me to.
 
 Cheers 😄
 <!---
